@@ -29,18 +29,18 @@
 
 ---
 
-<summary>:zap: Github stats </summary>
-<img align="left" alt="VanEvnglst's Github stats" src="https://github-readme-stats.vercel.app/api?username=VanEvnglst&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+![VanEvnglst's Github stats](https://github-readme-stats.vercel.app/api?username=VanEvnglst&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanEvnglst&layout=compact)
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanEvnglst&layout=compact&theme="tokyonight")
+
 
 <!-- <details>
   <summary>:zap: Recent Github Activity </summary>
   <!--START_SECTION: activity -->
   
-<!-- </details> --> -->
+<!-- </details> -->
 
 [linkedin]: https://www.linkedin.com/in/ivan-darren-evangelista-739405115/
 [instagram]: https://www.instagram.com/_vanevangelista
