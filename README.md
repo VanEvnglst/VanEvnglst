@@ -22,9 +22,25 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
+
+---
+
+<summary>:zap: Github stats </summary>
+<img align="left" alt="VanEvnglst's Github stats" src="https://github-readme-stats.vercel.app/api?username=VanEvnglst&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanEvnglst&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+<!-- <details>
+  <summary>:zap: Recent Github Activity </summary>
+  <!--START_SECTION: activity -->
+  
+<!-- </details> --> -->
 
 [linkedin]: https://www.linkedin.com/in/ivan-darren-evangelista-739405115/
 [instagram]: https://www.instagram.com/_vanevangelista
